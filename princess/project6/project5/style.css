@@ -1,0 +1,86 @@
+*{margin: 0; padding: 0;}
+
+body
+{
+	background: #C2A6A6;
+	font-family: 'Pacifico', cursive;
+}
+#block
+{
+	font-size: 60px;
+	color: #F0F0F0;
+	margin-top: 10%;
+	margin-left: 20% ;
+	float: left;
+
+}
+
+#box
+{
+background: #DA6969;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+#ariel
+{
+background: none;
+height: 600px;
+width: 775px;
+margin-left: 60px;
+margin-top: 150px;
+}
+
+#ariel img
+{
+background: none;
+height: 600px;
+width: 775px;
+margin-left: 60px;
+margin-top: 150px;
+}
+
+#box1
+{
+background: orange;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+#box2
+{
+background: #DADA00;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+#box3
+{
+background: #559555;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+#box4
+{
+background: #9ED7DA;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+#box5
+{
+background: #3256EF;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+#box6
+{
+background: violet;
+height: 1000px;
+width: 1300px;
+margin: 50px auto;
+}
+
+
